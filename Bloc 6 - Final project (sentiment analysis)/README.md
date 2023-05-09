@@ -1,5 +1,3 @@
-[Présentation vidéo](https://share.vidyard.com/watch/HfUEcomxEBg2kypear697j?)
+[Présentation vidéo](https://share.vidyard.com/watch/Uvcpzz7Cos9r6VTSHTWaFS?)
 
 [EDA](https://tweets-sentiment-analysis.herokuapp.com)
-
-[Prediction](https://share.vidyard.com/watch/HfUEcomxEBg2kypear697j?)
