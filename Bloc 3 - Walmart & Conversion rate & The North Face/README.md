@@ -1,5 +1,6 @@
 Présentations vidéo
 
 - [Walmart](https://share.vidyard.com/watch/ZrXfcTC63HG3TUBGzi57E8?)
+- [Walmart](https://share.vidyard.com/watch/uTzHyd8PRzMTRkgyifGj77?)
 
 Contact : zrachidatou@gmail.com
