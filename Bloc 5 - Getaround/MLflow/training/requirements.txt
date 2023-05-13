@@ -1,0 +1,7 @@
+boto3 
+mlflow 
+psycopg2-binary
+scikit-learn
+pandas
+numpy
+xgboost
