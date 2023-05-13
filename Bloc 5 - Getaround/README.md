@@ -5,5 +5,5 @@ Contact : zrachidatou@gmail.com
 Links :
 
 * [Dashboard](https://ras.com)
-* [MLflow](https://ras.com)
-* [API](https://ras.com)
+* [MLflow](https://mlflow-web-app.herokuapp.com/)
+* [API](https://getaround-pricing-optimization.herokuapp.com/)
